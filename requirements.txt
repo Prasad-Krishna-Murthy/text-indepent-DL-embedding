@@ -1,12 +1,11 @@
 streamlit
 librosa==0.10.1
 soundfile
-numpy
+numpy==1.23.5
 pandas
 matplotlib
 scikit-learn
-torch
-torchaudio
+torch==2.2.2
+torchaudio==2.2.2
 speechbrain
 ffmpeg-python
-aifc
