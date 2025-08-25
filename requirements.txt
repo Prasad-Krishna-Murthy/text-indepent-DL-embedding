@@ -1,7 +1,9 @@
-librosa
+streamlit
+librosa==0.10.1
+soundfile
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
+scikit-learn
 torch
-speechbrain
-sklearn
+torchaudio
